@@ -6,3 +6,5 @@
 * http://idea.medeming.com/jets/
 ## github搭建个人博客
 * https://juejin.im/post/6844903887732736007#heading-29
+## 在线修复折痕的旧照片
+* https://hotpot.ai/restore-picture
