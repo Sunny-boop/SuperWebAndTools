@@ -8,3 +8,6 @@
 * https://juejin.im/post/6844903887732736007#heading-29
 ## 在线修复折痕的旧照片
 * https://hotpot.ai/restore-picture
+
+##安装Ubuntu 20.04后要做的事
+* https://blog.csdn.net/skykingf/article/details/45267517
